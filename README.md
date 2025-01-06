@@ -31,6 +31,6 @@ The goal of Clouds AI is to empower users on the Solana blockchain with an intel
 This platform aspires to make staking accessible, efficient, and rewarding for both individual participants and institutions, contributing to the growth and resilience of the Solana blockchain.
 
 Subscribe to our X for new announcement
-https://x.com/clouds_ai_
+https://x.com/clouds__ai
 
 <p align="center"><img width="65%" src="docs/source/_static/img/cloudsaipfp.jpg"/></p>
