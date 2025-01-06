@@ -1,4 +1,4 @@
-<p align="center"><img width="65%" src="docs/source/_static/img/cloudsai.jpg"/></p>
+<p align="center"><img width="100%" src="docs/source/_static/img/cloudsai.jpg"/></p>
 
 ------------------------------------------------------------------------------------------
 [![codecov](https://codecov.io/gh/Cloud-CV/EvalAI/branch/master/graph/badge.svg)](https://codecov.io/gh/Cloud-CV/EvalAI)
@@ -30,4 +30,4 @@ The goal of Clouds AI is to empower users on the Solana blockchain with an intel
 
 This platform aspires to make staking accessible, efficient, and rewarding for both individual participants and institutions, contributing to the growth and resilience of the Solana blockchain.
 
-
+<p align="center"><img width="65%" src="docs/source/_static/img/cloudsaipfp.jpg"/></p>
