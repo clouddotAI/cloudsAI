@@ -1,4 +1,4 @@
-<p align="center"><img width="65%" src="docs/source/_static/img/evalai_logo.png"/></p>
+<p align="center"><img width="65%" src="docs/source/_static/img/cloudsai.jpg"/></p>
 
 ------------------------------------------------------------------------------------------
 [![codecov](https://codecov.io/gh/Cloud-CV/EvalAI/branch/master/graph/badge.svg)](https://codecov.io/gh/Cloud-CV/EvalAI)
