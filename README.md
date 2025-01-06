@@ -1,10 +1,6 @@
 <p align="center"><img width="100%" src="docs/source/_static/img/cloudsai.jpg"/></p>
 
 ------------------------------------------------------------------------------------------
-[![codecov](https://codecov.io/gh/Cloud-CV/CloudsAI/branch/master/graph/badge.svg)](https://codecov.io/gh/Cloud-CV/CloudsAI)
-[![Coverage Status](https://coveralls.io/repos/github/Cloud-CV/CloudsAI/badge.svg)](https://coveralls.io/github/Cloud-CV/CloudsAI)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Code Climate](https://codeclimate.com/github/Cloud-CV/CloudsAI/badges/gpa.svg)](https://codeclimate.com/github/Cloud-CV/CloudsAI)
 
 CloudsAI is an open source platform for evaluating and comparing machine learning (ML) and artificial intelligence (AI) algorithms at scale.
 
