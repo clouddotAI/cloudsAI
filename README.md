@@ -1,14 +1,14 @@
 <p align="center"><img width="100%" src="docs/source/_static/img/cloudsai.jpg"/></p>
 
 ------------------------------------------------------------------------------------------
-[![codecov](https://codecov.io/gh/Cloud-CV/EvalAI/branch/master/graph/badge.svg)](https://codecov.io/gh/Cloud-CV/EvalAI)
-[![Coverage Status](https://coveralls.io/repos/github/Cloud-CV/EvalAI/badge.svg)](https://coveralls.io/github/Cloud-CV/EvalAI)
+[![codecov](https://codecov.io/gh/Cloud-CV/CloudsAI/branch/master/graph/badge.svg)](https://codecov.io/gh/Cloud-CV/CloudsAI)
+[![Coverage Status](https://coveralls.io/repos/github/Cloud-CV/CloudsAI/badge.svg)](https://coveralls.io/github/Cloud-CV/CloudsAI)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Code Climate](https://codeclimate.com/github/Cloud-CV/EvalAI/badges/gpa.svg)](https://codeclimate.com/github/Cloud-CV/EvalAI)
+[![Code Climate](https://codeclimate.com/github/Cloud-CV/CloudsAI/badges/gpa.svg)](https://codeclimate.com/github/Cloud-CV/CloudsAI)
 
-EvalAI is an open source platform for evaluating and comparing machine learning (ML) and artificial intelligence (AI) algorithms at scale.
+CloudsAI is an open source platform for evaluating and comparing machine learning (ML) and artificial intelligence (AI) algorithms at scale.
 
-In recent years, it has become increasingly difficult to compare an algorithm solving a given task with other existing approaches. These comparisons suffer from minor differences in algorithm implementation, use of non-standard dataset splits and different evaluation metrics. By providing a central leaderboard and submission interface, we make it easier for researchers to reproduce the results mentioned in the paper and perform reliable & accurate quantitative analysis. By providing swift and robust backends based on map-reduce frameworks that speed up evaluation on the fly, EvalAI aims to make it easier for researchers to reproduce results from technical papers and perform reliable and accurate analyses.
+In recent years, it has become increasingly difficult to compare an algorithm solving a given task with other existing approaches. These comparisons suffer from minor differences in algorithm implementation, use of non-standard dataset splits and different evaluation metrics. By providing a central leaderboard and submission interface, we make it easier for researchers to reproduce the results mentioned in the paper and perform reliable & accurate quantitative analysis. By providing swift and robust backends based on map-reduce frameworks that speed up evaluation on the fly, CloudsAI aims to make it easier for researchers to reproduce results from technical papers and perform reliable and accurate analyses.
 
 ## Features
 
